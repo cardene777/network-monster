@@ -49,3 +49,12 @@ Solanaは特に日本においてまだアプリケーションなどで使用�
 - [Network Monster cardene777](https://core.metaplex.com/explorer/9LAkmG8FKAtP7mrsvEG3DadFWgSbMTpqxd2sM5drg477?env=devnet)
 - [Network Monster cardene7777777](https://core.metaplex.com/explorer/EZ1VDJD3xx7LBtkAG2YaqFMCCZavbYJjS3oDFLF5jUao?env=devnet)
 - [Network Monster cardene77777777](https://core.metaplex.com/explorer/FxXBRdqci8Y4NEYaTABy9NBKoYFAa94myzS2G2rGNj2B?env=devnet)
+
+## Code
+
+- [Mint Component](https://github.com/cardene777/network-monster/blob/develop/src/web/components/Mint.tsx)
+- [Wallet Provider](https://github.com/cardene777/network-monster/blob/develop/src/web/components/lib/Provider.tsx)
+- [Arweave](https://github.com/cardene777/network-monster/blob/develop/src/web/components/Mint.tsx#L25-L55)
+- [Metaplex Core](https://github.com/cardene777/network-monster/blob/develop/src/web/lib/metaplex.ts)
+- 
+
