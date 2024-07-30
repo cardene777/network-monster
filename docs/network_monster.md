@@ -42,6 +42,7 @@ Solanaは特に日本においてまだアプリケーションなどで使用�
 
 - SOLの送金とそれに応じたモンスターの成長。
 - Solana Actionsへの対応。
+- Network Monsterの活用方法。
 
 ## Sample NFT Tx
 
