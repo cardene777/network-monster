@@ -134,6 +134,8 @@ export const Mint = () => {
               src={nftData.image}
               alt={nftData.name}
               className="w-64 h-64"
+              width={256}
+              height={256}
             />
             <p>{nftData.description}</p>
             <ul>
@@ -143,13 +145,13 @@ export const Mint = () => {
                 </li>
               ))}
             </ul>
-            <ul>
+            {/* <ul>
               {nftData.plugin.attributeList[0].map((attr: any, index: number) => (
                 <li key={index}>
                   {attr.key}: {attr.value}
                 </li>
               ))}
-            </ul>
+            </ul> */}
           </div>
           <button
             onClick={updateAttributes}
